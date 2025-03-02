@@ -1,0 +1,14 @@
+ "quotes": [
+    {
+      "id": "f4a1fc00-545d-498b-bc3c-da404b89b584",
+      "symbol": "USD/CLP",
+      "offer": 150.50,
+      "bid": 149.50,
+      "last": 150.00,
+      "timestamp": "2023-02-21T09:21:26Z",
+      "lowPrice": 148.00,
+      "highPrice": 151.00,
+      "openPrice": 149.00,
+      "closePrice": 150.50
+    }
+  ]
