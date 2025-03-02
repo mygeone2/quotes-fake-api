@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  fake-api:
+    build: .
+    ports:
+      - "8001:8001"
+    volumes:
+      - .:/app
+      - /app/node_modules
